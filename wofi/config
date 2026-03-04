@@ -1,0 +1,28 @@
+# Center Wofi
+location=0
+
+# Size of the Wofi window
+width=800
+height=399
+
+# Style
+border=true
+border-radius=10
+padding=10
+
+# Hide scroll when not needed
+hide_scroll=true
+
+# Lines and columns (adjust as needed)
+lines=10
+columns=1
+
+# Show icons
+show-icons=true
+
+# Custom keybinding (optional)
+allow-markup=true
+
+# DMenu compatibility mode off
+dmenu-mode=false
+
